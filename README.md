@@ -5,7 +5,7 @@ Myanmar Map View
 
 https://youtu.be/98M6oirVwtA
 
-<img src="https://github.com/SanKoKo/MyanmarMapView/IranMapSvg/raw/master/screenshot/demo.gif" alt="screenshot" style="max-width:100%;">
+<img src="https://github.com/SanKoKo/MyanmarMapView/blob/master/screenshot/map2.gif" alt="screenshot" style="max-width:100%;">
 
 
 
