@@ -30,7 +30,7 @@ Library သုံးဖို့ရာ အောက်ပါအတိုင်�
   
             dependencies {
             
-                  implementation 'com.github.SanKoKo:MyanmarMapView:Tag'
+                  implementation 'com.github.SanKoKo:MyanmarMapView:1.0'
                   
           }
           
