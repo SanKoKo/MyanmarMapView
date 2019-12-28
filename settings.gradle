@@ -1,0 +1,2 @@
+include ':app', ':sanmyanmarmap'
+rootProject.name='MyanmarMap'
