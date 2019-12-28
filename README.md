@@ -53,9 +53,10 @@ Library သုံးဖို့ရာ အောက်ပါအတိုင်�
         
         
   <h3>Java Code </h3>
-    final TextView tv = findViewById(R.id.tv);
-        MyanmarMapView myanmarMapView = findViewById(R.id.mm);
+          
 
+      final TextView tv = findViewById(R.id.tv);
+      MyanmarMapView myanmarMapView = findViewById(R.id.mm);
         /*
 
         You can set the map default color in xml by using app:mapBackgroundColor="#A80BEB"
